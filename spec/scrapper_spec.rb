@@ -1,4 +1,4 @@
-require_relative '../lib/app.rb'
+require_relative '../lib/scrapper.rb'
 
 describe 'perform method, it should perform' do
   It' 'do
